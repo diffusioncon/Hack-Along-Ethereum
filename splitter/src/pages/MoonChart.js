@@ -5,7 +5,7 @@ export const MoonChart = () => {
 
     return (
         <section className="moon">
-            <h3 className="title">Public</h3>
+            <h3 className="title">Personal</h3>
             <PieChart
                 animate={false}
                 animationDuration={500}
