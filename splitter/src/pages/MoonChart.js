@@ -16,17 +16,17 @@ export const MoonChart = () => {
                     {
                         color: '#E38627',
                         title: 'One',
-                        value: 10
+                        value: 40
                     },
                     {
                         color: '#C13C37',
                         title: 'Two',
-                        value: 15
+                        value: 20
                     },
                     {
                         color: '#6A2135',
                         title: 'Three',
-                        value: 20
+                        value: 40
                     }
                 ]}
                 label
